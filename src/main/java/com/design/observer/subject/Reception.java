@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * @Author: weishi.zeng
  * @Date: 2021/1/6 15:07
- * @Description:
+ * @Description:前台望风的同事
  */
 public class Reception implements Subject {
     private List<Observer> observers = new ArrayList<Observer>();
