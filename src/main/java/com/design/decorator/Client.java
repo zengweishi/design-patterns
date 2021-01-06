@@ -7,7 +7,7 @@ import com.design.decorator.service.Lipstick;
 /**
  * @Author: weishi.zeng
  * @Date: 2020/12/22 11:43
- * @Description:
+ * @Description:装饰器模式
  */
 public class Client {
     public static void main(String[] args) {
